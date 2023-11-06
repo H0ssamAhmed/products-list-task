@@ -1,6 +1,6 @@
 # Products List Task
 
-This React app is a solution to the task provided by [inter2Grow](https://intern2grow.vercel.app/). It allows users to manage a list of products and adjust the quantity of each product using + and - buttons.
+This React app is a solution to the task provided by [inter2Grow](https://intern2grow.vercel.app/). It allows users to manage a list of products and adjust the quantity of each product using` + `and` - `buttons.
 
 ## Demo
 
@@ -29,14 +29,4 @@ You can access a live demo of this app [here](https://h0ssamahmed.github.io/prod
 This project was built using:
 
 - React: A popular JavaScript library for building user interfaces.
-- JavaScript: The primary programming language.
-- HTML and CSS: For structuring and styling the web page.
 
-## Installation
-
-To run this app locally, you can follow these steps:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/h0ssamahmed/products-list-task.git
